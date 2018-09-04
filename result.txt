@@ -1,0 +1,21 @@
+submission(0.6219).csv 
+- #hidden layer neuron = 256
+- #hidden layer = 3
+- epochs = 100
+- batch_size = 128
+- optimizer = 'adam'
+
+submission(0.6053).csv 
+- #hidden layer neuron = 1024
+
+submission(0.5134).csv
+- #hidden layer neuron = (input+output) * 2 /3
+
+submission(0.6269).csv
+- #hidden layer neuron = 512
+- #hidden layer = 4
+
+
+submission(0.6269).csv
+- batch_size = 256
+- epoch = 200
