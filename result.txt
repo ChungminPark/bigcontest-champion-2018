@@ -15,7 +15,26 @@ submission(0.6269).csv
 - #hidden layer neuron = 512
 - #hidden layer = 4
 
-
-submission(0.6269).csv
+submission(0.6247).csv
 - batch_size = 256
 - epoch = 200
+- epoch이 100이전에 끝남.
+
+
+submission(0.6221).csv
+- #hidden layer = 5
+
+submission(0.0142).csv
+- min max scaling
+- nomalizing
+- test case에 scaling, nomalizing을 적용하지 않음
+
+submission(0.2377).csv
+- #hidden layer = 4
+- scaling
+- nomalizing
+- test case에 scaling, nomalizing을 적용하지 않음
+
+submission(0.628).csv
+- scaling
+- test case에 scaling, nomalizing을 적용
