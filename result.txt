@@ -38,3 +38,6 @@ submission(0.2377).csv
 submission(0.628).csv
 - scaling
 - test case에 scaling, nomalizing을 적용
+
+submission(0.635).csv
+- #hidden layer = 3
