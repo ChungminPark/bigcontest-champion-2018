@@ -41,3 +41,15 @@ submission(0.628).csv
 
 submission(0.635).csv
 - #hidden layer = 3
+
+submission2(0.6065).csv
+- KNN Model
+
+submission1(0.64).csv
+- Random Forest Model
+
+submission(0.5631).csv
+- Party data 추가
+
+submission1(0.5607).csv
+- Party data 추가
