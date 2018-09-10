@@ -14,4 +14,3 @@
 ## Dataset
 [2018 Bigcontest](http://www.bigcontest.or.kr/index.php)
 
-## Result

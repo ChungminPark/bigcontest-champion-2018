@@ -2,5 +2,9 @@
 /train
 /test
 
+# Submission files
+*.csv
+/result
+
 # zip files
 *.zip
