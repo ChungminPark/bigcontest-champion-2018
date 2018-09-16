@@ -10,6 +10,7 @@
 - Pandas 0.22.0
 - Keras 2.2.0
 - Jupyter 4.4.0
+- RAM >= 32GB 
 
 ## Dataset
 [2018 Bigcontest](http://www.bigcontest.or.kr/index.php)
